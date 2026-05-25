@@ -29,4 +29,9 @@ The program results are shown in the integrated VS CODE terminal.
 
 To know more about our GitHub repo and Project updates, follow our Instagram Channel:
  https://www.instagram.com/codecrafters_org_2011sdp/
+
+Link to Download MinGW Compiler for Windows: https://sourceforge.net/projects/mingw/
+
+Link to Download VS Code for Linux, Windows and MacOS: https://code.visualstudio.com/download
+
  
