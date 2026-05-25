@@ -21,7 +21,7 @@ step 5: Save the file with a .c extension
 
 step 6: VS CODE will recommed to insall c/c++ extension pack to connect to your installed compilers. Don't worry, the extension is mae by Microsoft themselves. 
 
-step 7: After writing the program, run it using the play button names "Run" or "Debug" on the toolbar of VS CODE*/
+step 7: After writing the program, run it using the play button names "Run" or "Debug" on the toolbar of VS CODE
 
 Hurray! You have run your first program successfully!
 
